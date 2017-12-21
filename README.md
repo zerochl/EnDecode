@@ -1,11 +1,11 @@
 # EnDecode
-适用于所有GoLang程序，轻松集成各种加解密方式,字符串流媒体都莫有问题。
-如果你的Android或者IOS集成有GoLang，那么应用到移动端也不是不可以
-支持如下加密方式：aes, aes-128, aes-192, salsa20, blowfish, twofish, cast5, 3des, tea, xtea, xor, chacha20,none
-crypt_key:可以当做是密码
-crypt_salt:加盐
-crypt_method:加密方式
-具体使用可以参照如下方法（作者使用的Beego）
+适用于所有GoLang程序，轻松集成各种加解密方式,字符串流媒体都莫有问题。</br>
+如果你的Android或者IOS集成有GoLang，那么应用到移动端也不是不可以</br>
+# 支持如下加密方式：aes, aes-128, aes-192, salsa20, blowfish, twofish, cast5, 3des, tea, xtea, xor, chacha20,none</br>
+# crypt_key:可以当做是密码</br>
+# crypt_salt:加盐</br>
+# crypt_method:加密方式</br>
+具体使用可以参照如下方法（作者使用的Beego）</br>
 
         import (
           "endecode"
