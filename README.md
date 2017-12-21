@@ -6,6 +6,7 @@ crypt_key:可以当做是密码
 crypt_salt:加盐
 crypt_method:加密方式
 具体使用可以参照如下方法（作者使用的Beego）
+
         import (
           "endecode"
           "github.com/astaxie/beego"
