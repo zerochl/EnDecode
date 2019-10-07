@@ -10,7 +10,8 @@
 
 ### 作者联系方式：QQ：975804495
 ### 疯狂的程序员群：186305789，没准你能遇到绝影大神
-### 作者个人兴趣网站，[zerochl接码平台](http://xinghai.party)
+### 作者个人兴趣网站，[zero接码平台](https://xinghai.party)
+### 作者个人兴趣网站，[猿指](https://blog.xinghai.party)
 
 </br>
 具体使用可以参照如下方法（作者使用的Beego）</br>
